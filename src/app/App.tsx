@@ -248,7 +248,7 @@ export default function App() {
         <div className="mb-4 sm:mb-6">
           <h1 className="text-xl sm:text-2xl md:text-3xl font-bold text-slate-800 mb-1 flex items-center gap-2">
             <Wallet className="size-6 sm:size-8 text-blue-600" />
-            BENGKEL SRAGEN MOTOR
+            APLIKASI KASIR SEDERHANA
           </h1>
           <p className="text-xs sm:text-sm text-slate-600">Kelola transaksi pemasukan dan pengeluaran dengan mudah</p>
         </div>
