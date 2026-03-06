@@ -7,7 +7,7 @@ export default defineConfig({
   // Tambahkan baris ini! Penting agar link CSS/JS tidak pecah (404)
   base: '/Arus-Kas-App/', 
   build: {
-    outDir: 'dist',
+    outDir: 'docs',
   },
   
   plugins: [
